@@ -10,4 +10,4 @@ Fine-tunes a pre-trained DistilBERT transformer model for multi-label emotion cl
 
 Uses PyTorch and Transformers to tokenize, train, and evaluate
 
-Plans to integrate a Streamlit-based web app for real-time usage
+Integrated a Streamlit-based web app for real-time usage
